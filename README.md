@@ -24,7 +24,7 @@ The max binding strategy was presented to the control group, and the average bin
   </tr>
     <tr>
     <td>Impression</td>
-    <td>TAd views count</td> 
+    <td>Ad views count</td> 
   </tr>
   
   <tr>
