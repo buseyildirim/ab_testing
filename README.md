@@ -24,7 +24,7 @@ The max binding strategy was presented to the control group, and the average bin
   </tr>
   <tr>
     <td>Click</td>
-    <td>The number of clicks on the displayed ad./td> 
+    <td>The number of clicks on the displayed ad.</td> 
   </tr>
   <tr>
     <td>Purchase</td>
