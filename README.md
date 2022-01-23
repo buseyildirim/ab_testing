@@ -22,13 +22,18 @@ The max binding strategy was presented to the control group, and the average bin
     <th>Variable</th>
     <th>Description</th> 
   </tr>
+    <tr>
+    <td>Impression</td>
+    <td>TAd views count</td> 
+  </tr>
+  
   <tr>
     <td>Click</td>
-    <td>The number of clicks on the displayed ad.</td> 
+    <td>The number of clicks on the displayed ad</td> 
   </tr>
   <tr>
     <td>Purchase</td>
-    <td>The number of products purchased after the ads clicked.</td> 
+    <td>The number of products purchased after the ads clicked</td> 
   </tr>
     <td>Earning</td>
     <td>Earnings after purchased products</td> 
